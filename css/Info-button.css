@@ -6,6 +6,7 @@
   display: inline-block;
   cursor: pointer;
   background-color: transparent;border: none; outline: none;
+  margin-top: 10px;
   height: 83px;
   width: 105px;
 }
