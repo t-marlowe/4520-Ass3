@@ -52,6 +52,7 @@
 .modal-content__details p {
   margin: 0;
   line-height: 40px;
+  padding: 20px 0;
 }
 
 .modal-content__details h4 {
