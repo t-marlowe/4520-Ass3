@@ -33,3 +33,10 @@
   fill: var(--purple__light-color);
   fill-opacity: 1;
 }
+
+
+@media screen and (max-width: 660px) {
+  .info-button {
+    z-index: -44;
+  }
+}

@@ -49,3 +49,11 @@ footer {
   text-align: center; 
   color: var(--white-color);
 }
+
+
+@media screen and (max-width: 560px) {
+  .footer-container__technologies {
+    gap: 10px;
+    flex-direction: column;
+  }
+}

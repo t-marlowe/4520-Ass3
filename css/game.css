@@ -130,7 +130,7 @@ hr {
   }
 }
 
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 800px) {
   .game__stats {
     grid-template-columns: 1fr;
     grid-template-rows: 1fr .2fr .2fr;
@@ -148,19 +148,24 @@ hr {
     max-width: 200px;
     align-items: center;
   }
-
-  .game__left p {
-    text-align: center;
-    margin: 0;
-    padding-bottom: 20px;
-  }
   
   .game__right {
     max-width: 200px;
     text-align: center;
   }
 
+  .game__left p {
+    text-align: center;
+    margin: 0;
+    padding-bottom: 20px;
+  }
+
   .game__right p {
     margin: 0;
+  }
+
+  .game__middle p {
+    max-width: 200px;
+    margin: 20px auto;
   }
 }

@@ -27,3 +27,8 @@
 }
 
 /* Modifiers */
+@media screen and (max-width: 660px) {
+  .hero__title {
+    font-size: 60px;
+  }
+}
