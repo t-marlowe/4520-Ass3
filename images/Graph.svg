@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="82" fill="none" viewBox="0 0 405 82">
+  <g class="Graph">
+    <path fill="#FBFBFB" d="M0 70h15v12H0z" class="Rectangle 17"/>
+    <path fill="#FBFBFB" d="M15 66h15v16H15z" class="Rectangle 18"/>
+    <path fill="#FBFBFB" d="M30 62h15v20H30z" class="Rectangle 19"/>
+    <path fill="#FBFBFB" d="M45 54h15v28H45z" class="Rectangle 20"/>
+    <path fill="#FBFBFB" d="M60 59h15v23H60z" class="Rectangle 21"/>
+    <path fill="#FBFBFB" d="M75 70h15v12H75z" class="Rectangle 22"/>
+    <path fill="#FBFBFB" d="M90 76h15v6H90z" class="Rectangle 23"/>
+    <path fill="#FBFBFB" d="M105 66h15v16h-15z" class="Rectangle 24"/>
+    <path fill="#FBFBFB" d="M120 70h15v12h-15z" class="Rectangle 25"/>
+    <path fill="#FBFBFB" d="M135 56h15v26h-15z" class="Rectangle 26"/>
+    <path fill="#FBFBFB" d="M150 64h15v18h-15z" class="Rectangle 27"/>
+    <path fill="#FBFBFB" d="M165 48h15v34h-15z" class="Rectangle 28"/>
+    <path fill="#FBFBFB" d="M180 38h15v44h-15z" class="Rectangle 29"/>
+    <path fill="#FBFBFB" d="M195 33h15v49h-15z" class="Rectangle 30"/>
+    <path fill="#FBFBFB" d="M210 15h15v67h-15z" class="Rectangle 31"/>
+    <path fill="#FBFBFB" d="M225 22h15v60h-15z" class="Rectangle 34"/>
+    <path fill="#FBFBFB" d="M240 10h15v72h-15z" class="Rectangle 35"/>
+    <path fill="#FBFBFB" d="M255 0h15v82h-15z" class="Rectangle 37"/>
+    <path fill="#FBFBFB" d="M270 8h15v74h-15z" class="Rectangle 38"/>
+    <path fill="#FBFBFB" d="M285 15h15v67h-15z" class="Rectangle 39"/>
+    <path fill="#FBFBFB" d="M300 29h15v53h-15z" class="Rectangle 41"/>
+    <path fill="#FBFBFB" d="M315 25h15v57h-15z" class="Rectangle 42"/>
+    <path fill="#FBFBFB" d="M330 35h15v47h-15z" class="Rectangle 43"/>
+    <path fill="#FBFBFB" d="M345 43h15v39h-15z" class="Rectangle 44"/>
+    <path fill="#FBFBFB" d="M360 33h15v49h-15z" class="Rectangle 45"/>
+    <path fill="#FBFBFB" d="M375 25h15v57h-15z" class="Rectangle 46"/>
+    <path fill="#FBFBFB" d="M390 15h15v67h-15z" class="Rectangle 47"/>
+  </g>
+</svg>

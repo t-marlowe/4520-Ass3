@@ -1,0 +1,15 @@
+/* ELEMENTS */
+@import 'normalize.css';
+@import 'layout.css';
+@import 'colors.css';
+
+/* BLOCKS */
+@import 'card.css';
+@import 'info-button.css';
+@import 'hero.css';
+@import 'nav.css';
+@import 'game.css';
+@import 'footer.css';
+@import 'modal.css';
+
+/* PAGES */

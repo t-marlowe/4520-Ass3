@@ -1,0 +1,29 @@
+@import 'colors.css';
+
+/* Block and Elements */
+.hero {
+  background-color: #000;
+  background-image: url(../images/Feature.png);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 80vh;
+  margin-top: 0;
+  padding: 1px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.hero__title {
+  font-family: 'Oswald', sans-serif;
+  font-weight: bold;
+  font-size: 80px;
+  color: var(--white-color);
+  font-weight: 700;
+  text-align: center;
+  margin: 0;
+  max-width: 720px;
+}
+
+/* Modifiers */
